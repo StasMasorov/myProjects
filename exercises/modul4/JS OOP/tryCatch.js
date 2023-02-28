@@ -6,7 +6,7 @@ export default class ParseError extends Error {
   }
   
 
-import ParseError from './ParseError.js';
+import ParseError from './ParseError.js.js.js';
 
 export function parseJson(json) {
     try {
