@@ -1,0 +1,8 @@
+.text-center {
+    /* BEGIN (write your solution here) */
+    position: absolute;
+    left: calc(50% - 560px / 2);
+    top: calc(50% - 280px / 2);
+  
+    /* END */
+  }
